@@ -1,4 +1,4 @@
-// Longest Palindromic Substring
+// Longest Palindromic Substring O(n^2)
 #include<bits/stdc++.h>
 
 using namespace std;
